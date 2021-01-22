@@ -1,0 +1,1 @@
+nohup python -u app.py >> flask_nlp.log 2>&1 &
